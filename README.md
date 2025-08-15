@@ -15,23 +15,32 @@
 
 # 🚀 About Me
 
-I am an **AI/ML Engineer** and **Data Scientist** with **4+ years of experience** in **Machine Learning, Deep Learning, NLP, Computer Vision, and Cloud Technologies**. Currently pursuing my **Master’s in Computer Science at NAU**, I have worked at **Infosys, TCS**, and **Smart Bridge with IBM** on projects involving **AI model development, optimization, and deployment**.
+### 👋 Hi, I'm Jasweer Tadikonda
 
-## 💡 Expertise Highlights
-- 🤖 **AI & ML Development**: Designed ML models improving predictive accuracy by **25%**
-- 🔄 **MLOps & Automation**: Optimized deep learning models, reducing inference time by **30%**
-- ☁️ **Cloud & DevOps**: Experience with **AWS, Google Cloud, Docker, and Kubernetes**
-- 🛠️ **Software Development**: **Python, Java, SQL, C**, REST APIs, CI/CD pipelines
-- 📊 **Data Engineering**: Preprocessed large datasets (100K+ records) improving model training efficiency by **25%**
+- 🎓 M.S. in Computer Science (3.9 GPA, Class of 2025) | Certified IBM AI Engineer  
+- 💻 AI/ML Engineer with 4+ years of experience building advanced solutions in fraud detection, NLP, and healthcare analytics, delivering up to 25% performance improvements.  
+- 🛠 Skilled in Python, TensorFlow, PyTorch, Azure, and MLOps practices, with strong expertise in predictive analytics and Large Language Models (LLMs).  
+- 🚀 Passionate about transforming raw data into impactful AI applications through technical excellence, innovation, and collaboration. 
+
+### Expertise Highlights
+
+- 🤖 **AI & ML Development:** Built ML models and Large Language Models (BERT, GPT) improving predictive accuracy and learning outcomes by up to 35%.  
+- 🧠 **Deep Learning & NLP:** Designed CNN, RNN, LSTM networks and NLP pipelines for sentiment analysis and intelligent assistants.  
+- 🔄 **MLOps & Automation:** Managed ML lifecycle with MLflow, CI/CD, FastAPI, Docker, and Kubernetes, reducing inference time by 30%.  
+- 📊 **Data Engineering & Analytics:** Engineered ETL pipelines with PySpark, Pandas, Spark, and SQL/NoSQL, improving preprocessing efficiency by 25–40%.  
+- ☁️ **Cloud & DevOps:** Deployed AI solutions on AWS and Azure, boosting scalability and uptime.  
+- 🛠️ **Programming & Software Development:** Python, Java, C++, SQL, REST APIs, and enterprise-grade software solutions.
+
 
 ## 🛠️ Technical Skills
-
 ### Languages & Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-FF6F00?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Machine Learning & AI
@@ -39,27 +48,68 @@ I am an **AI/ML Engineer** and **Data Scientist** with **4+ years of experience*
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-F99000?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-RGB(255,69,0)?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
+</p>
+
+### Data Engineering & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
 </p>
 
 ### Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-00BFFF?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+### Visualization & Reporting
+<p align="center">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
 
 ## 📌 Featured Projects
 
-### 🔹 [HR Analytics: Predicting Employee Performance & Retention](https://github.com/jasweer09/HR-Analytics)
-- 📊 **Developed predictive models** for employee retention and performance
-- 🔄 **Analyzed key factors** affecting attrition using machine learning
-- ☁️ **Tech Stack**: Python, Scikit-learn, XGBoost, Pandas, Matplotlib
+### 📈 U.S. Unemployment Rate Forecasting
+- Forecasts U.S. unemployment using historical economic indicators.
+- Implements Ridge Regression with lag & rolling statistical features.
+- Backend: FastAPI | MLflow for model tracking & registry.
+- Frontend: Responsive UI for real-time predictions.
+- Feature engineering: Lag features, rolling mean & standard deviation.
+- [🔗 View Repository](https://github.com/Jasweer09/UnEmployment_Rate_Prediction)
 
-
-### 🔹 [Real-Time Fraud Detection System](https://github.com/jasweer09/Real-Time-Fraud-Detection)
-- 🚀 **Achieved 95% accuracy** in fraud detection
-- 🔄 **Optimized data pipelines**, reducing processing time by **40%**
-- ☁️ **Tech Stack**: Python, Scikit-learn, TensorFlow, Apache Kafka, AWS Lambda
+### 🚖 NYC Taxi Trip Duration Prediction – ML Engineering Case Study
+- Real-time trip duration prediction from large-scale NYC taxi data (~10M+ records).
+- Data processing with Apache Spark & feature engineering (time, distance, peak hours, etc.).
+- MLflow for experiment tracking & model versioning.
+- FastAPI backend with Jinja2 templates for interactive predictions.
+- Dockerized for production-ready deployment.
+- [🔗 View Repository](https://github.com/Jasweer09/NYC-Taxi-Trip-Duration-Prediction)
+  
+### 🚀 Credit Card Fraud Detection – From Raw Data to Final Model
+- Built an end-to-end fraud detection pipeline on highly imbalanced credit card data (0.17% fraud cases).
+- Applied advanced preprocessing: cyclic encoding for time, scaling, and multiple resampling strategies.
+- Evaluated Logistic Regression, Random Forest, XGBoost; final ensemble achieved Precision 0.89, Recall 0.80, AUC 0.976.
+- Implemented threshold tuning to optimize fraud detection trade-offs.
+- Live demo: [fraud-detection-latest.onrender.com](https://fraud-detection-latest.onrender.com)
+- [🔗 View Repository](https://github.com/Jasweer09/Credit_card_fraud_detection_system)
 
 ### 🔹 [NLP-Powered Legal Document Analyzer](https://github.com/jasweer09/NLP-Legal-Document-Analyzer)
 - 🔍 **90% precision** in clause extraction using **BERT & Hugging Face**
