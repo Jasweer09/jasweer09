@@ -111,22 +111,7 @@
 - Live demo: [fraud-detection-latest.onrender.com](https://fraud-detection-latest.onrender.com)
 - [🔗 View Repository](https://github.com/Jasweer09/Credit_card_fraud_detection_system)
 
-### 🔹 [NLP-Powered Legal Document Analyzer](https://github.com/jasweer09/NLP-Legal-Document-Analyzer)
-- 🔍 **90% precision** in clause extraction using **BERT & Hugging Face**
-- ⚡ **Reduced document processing time by 40%**
-- 🛠️ **Tech Stack**: Python, SpaCy, BERT, Docker
 
-### 🔹 [Personalized Healthcare Recommendation System](https://github.com/jasweer09/Healthcare-Recommendation)
-- 🤖 **Improved patient satisfaction by 25%** with AI-powered recommendations
-- 🔒 **Ensured HIPAA compliance** with secure API integration
-- 🚀 **Tech Stack**: Python, TensorFlow, Pandas, AWS SageMaker
-
-## 📊 GitHub Stats
-
-<!--<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasweer09&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jasweer09&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>-->
 
 ## 🤝 Let's Connect!
 
