@@ -17,7 +17,7 @@
 
 ### 👋 Hi, I'm Jasweer Tadikonda
 
-- 🎓 M.S. in Computer Science (3.9 GPA, Class of 2025) | Certified IBM AI Engineer  
+- 🎓 Certified IBM AI Engineer | Azure Developer Associate
 - 💻 AI/ML Engineer with 4+ years of experience building advanced solutions in fraud detection, NLP, and healthcare analytics, delivering up to 25% performance improvements.  
 - 🛠 Skilled in Python, TensorFlow, PyTorch, Azure, and MLOps practices, with strong expertise in predictive analytics and Large Language Models (LLMs).  
 - 🚀 Passionate about transforming raw data into impactful AI applications through technical excellence, innovation, and collaboration. 
