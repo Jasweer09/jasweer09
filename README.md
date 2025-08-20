@@ -111,7 +111,13 @@
 - Live demo: [fraud-detection-latest.onrender.com](https://fraud-detection-latest.onrender.com)
 - [🔗 View Repository](https://github.com/Jasweer09/Credit_card_fraud_detection_system)
 
-
+### 🧠 Multi-Task NLP Classification  
+Built a deep learning model using **LSTM with shared layers** to classify text into **emotions, violence categories, and hate speech** simultaneously.  
+Applied **data preprocessing** (cleaning, stopword removal, tokenization, padding) and handled **imbalanced datasets** with sampling techniques.  
+Trained and saved the model (`my_model.h5`) along with the **tokenizer** to ensure consistent preprocessing during inference.  
+Developed a **FastAPI service** to deploy the model and expose a `/predict` endpoint for real-time classification.  
+Showcased end-to-end ML pipeline skills: **data engineering → model training → deployment → API integration**.  
+- [🔗 View Repository](https://github.com/Jasweer09/Multi_Task_NLP_Model)
 
 ## 🤝 Let's Connect!
 
