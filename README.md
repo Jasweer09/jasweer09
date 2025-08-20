@@ -125,7 +125,7 @@
 - Implemented in TensorFlow with a pipeline for tokenization, embedding, and binary classification.
 - Achieved ~50% accuracy, highlighting potential for further hyperparameter optimization.
 - Demonstrates skills in NLP, deep learning, and model architecture design.
-
+- [🔗 View Repository](https://github.com/Jasweer09/Sarcasm_Detection_Using_Herarchial_BERT)
 ## 🤝 Let's Connect!
 
 <div align="center">
