@@ -119,6 +119,13 @@
 - Showcased end-to-end ML pipeline skills: **data engineering → model training → deployment → API integration**.  
 - [🔗 View Repository](https://github.com/Jasweer09/Multi_Task_NLP_Model)
 
+### 🧠 Sarcasm Detection with Hierarchical BERT
+- Developed a Hierarchical BERT model to detect sarcasm in Reddit comments, combining BERT embeddings with LSTM and CNN layers.
+- Preprocessed a Kaggle dataset (1M+ comments), sampling 10,000 for training (8,000) and testing (2,000).
+- Implemented in TensorFlow with a pipeline for tokenization, embedding, and binary classification.
+- Achieved ~50% accuracy, highlighting potential for further hyperparameter optimization.
+- Demonstrates skills in NLP, deep learning, and model architecture design.
+
 ## 🤝 Let's Connect!
 
 <div align="center">
