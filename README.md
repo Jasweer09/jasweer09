@@ -119,6 +119,13 @@
 - Showcased end-to-end ML pipeline skills: **data engineering → model training → deployment → API integration**.  
 - [🔗 View Repository](https://github.com/Jasweer09/Multi_Task_NLP_Model)
 
+### 📝 Text Summarization with BART Transformer
+- Developed Abstractive Summarization Pipeline 🖋️: Built an NLP solution using the BART model (facebook/bart-large-cnn) to generate concise, human-like summaries for conversational text, leveraging Hugging Face Transformers.
+- Fine-Tuned Model for Dialogues 💬: Optimized BART on the SAMSum dataset (~12,460 dialogue-summary pairs) to enhance context-aware summarization, achieving improved accuracy for real-world dialogues.
+- Deployed Scalable FastAPI Service 🌐: Implemented a RESTful API with FastAPI to serve the fine-tuned model, featuring a POST /summarize endpoint and interactive Swagger UI for seamless integration.
+- Utilized GPU Acceleration ⚡: Accelerated training (~1 hour for 2 epochs) and inference using CUDA, with robust preprocessing and training workflows using PyTorch and Hugging Face Trainer.
+- [🔗 View Repository](https://github.com/Jasweer09/Text_Summarization_Using_BART)
+
 ### 🧠 Sarcasm Detection with Hierarchical BERT
 - Developed a Hierarchical BERT model to detect sarcasm in Reddit comments, combining BERT embeddings with LSTM and CNN layers.
 - Preprocessed a Kaggle dataset (1M+ comments), sampling 10,000 for training (8,000) and testing (2,000).
