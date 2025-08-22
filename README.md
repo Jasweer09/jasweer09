@@ -133,6 +133,13 @@
 - Achieved ~50% accuracy, highlighting potential for further hyperparameter optimization.
 - Demonstrates skills in NLP, deep learning, and model architecture design.
 - [🔗 View Repository](https://github.com/Jasweer09/Sarcasm_Detection_Using_Herarchial_BERT)
+
+### Hate Speech Detection API 🛡️
+- Built a hate speech detection system using TensorFlow/Keras, achieving ~92% accuracy on ~24,783 tweets, using SMOTE to handle class imbalance.
+- Implemented an NLP pipeline with spaCy for text cleaning, lemmatization, and encoding, classifying text as Hate Speech, Offensive, or Neutral.
+- Deployed a scalable FastAPI-based RESTful API with custom logic to refine low-confidence predictions (<99.9%) using top-2 class probabilities.
+- Evaluated model with precision, recall, F1-scores, and confusion matrix visualizations using Matplotlib/Seaborn, showcasing robust performance.
+- [🔗 View Repository](https://github.com/Jasweer09/Hate_Speech_Detection_Using_LSTM/)
 ## 🤝 Let's Connect!
 
 <div align="center">
