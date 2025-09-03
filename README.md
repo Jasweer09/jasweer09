@@ -140,6 +140,17 @@
 - Deployed a scalable FastAPI-based RESTful API with custom logic to refine low-confidence predictions (<99.9%) using top-2 class probabilities.
 - Evaluated model with precision, recall, F1-scores, and confusion matrix visualizations using Matplotlib/Seaborn, showcasing robust performance.
 - [🔗 View Repository](https://github.com/Jasweer09/Hate_Speech_Detection_Using_LSTM/)
+
+### 🌟 Multi-Source QA Chatbot 🌟
+
+The **Multi-Source QA Chatbot** is a LangChain-powered conversational AI built with Llama2, integrating Wikipedia, Arxiv, and a FAISS-based LangSmith retriever to answer diverse queries like "What is OpenAI?" with structured JSON responses. Implemented in `agents.ipynb`, it showcases robust tool integration and error handling for reliable question-answering.
+
+- **Multi-Tool Integration**: Combines Wikipedia, Arxiv, and LangSmith retriever for comprehensive query coverage.
+- **Structured JSON Output**: Uses `create_structured_chat_agent` with Llama2 for consistent, parseable responses.
+- **Error Resolution**: Overcame parsing issues (e.g., for "Tell me about India") to enhance reliability.
+- **Scalable Design**: Modular tool setup allows easy addition of new data sources.
+- **Repo Link**: [View Repository](https://github.com/Jasweer09/Adv_RAG_QA_ChatBot_with_Multi_Source)
+
 ## 🤝 Let's Connect!
 
 <div align="center">
