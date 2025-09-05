@@ -104,6 +104,13 @@ The **Multi-Source QA Chatbot** is a LangChain-powered conversational AI built w
 - **Scalable Design**: Modular tool setup allows easy addition of new data sources.
 - **Repo Link**: [View Repository](https://github.com/Jasweer09/Adv_RAG_QA_ChatBot_with_Multi_Source)
   
+### Gemma Model Q&A ChatBot | Python, Streamlit, LangChain, Groq, FAISS
+- Built a web app to query US Census PDFs using RAG, enabling efficient document processing and accurate user responses.
+- Powered fast inference with Groq’s LPU, achieving 800+ tokens/second for real-time responses without local GPU needs.
+- Optimized retrieval with Google’s embedding-001 and FAISS for precise document context in a scalable vector store.
+- Leveraged Groq’s cost-effective LPU (~$0.10/million tokens) and Streamlit for a fast chatbot outperforming local tools like Ollama.
+- **Repo Link**: [View Repository](https://github.com/Jasweer09/Experimenting_Gemme_Groq_inference_engine)
+  
 ### 🚀 AI-Driven Vector Database Project with Astra DB
 
 - 🧠 Developed a semantic search pipeline using Astra DB and LangChain, querying philosophical quotes with Hugging Face embeddings.
