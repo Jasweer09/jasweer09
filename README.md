@@ -18,17 +18,17 @@
 ### 👋 Hi, I'm Jasweer Tadikonda
 
 - 🎓 Certified IBM AI Engineer | Azure Developer Associate
-- 💻 AI/ML Engineer with 4+ years of experience building advanced solutions in fraud detection, NLP, and healthcare analytics, delivering up to 25% performance improvements.  
-- 🛠 Skilled in Python, TensorFlow, PyTorch, Azure, and MLOps practices, with strong expertise in predictive analytics and Large Language Models (LLMs).  
-- 🚀 Passionate about transforming raw data into impactful AI applications through technical excellence, innovation, and collaboration. 
+- 💻 AI/ML Engineer with 5+ years of experience building advanced solutions in fraud detection, NLP, healthcare analytics, and RAG, delivering up to 35% performance improvements.  
+- 🛠 Skilled in Python, TensorFlow, PyTorch, Azure, LangChain, and MLOps, with expertise in LLMs, predictive analytics, and retrieval-augmented systems. 
+- 🚀 Passionate about transforming data into impactful AI applications using innovation, collaboration, and cutting-edge tools like LangChain and FAISS. 
 
 ### Expertise Highlights
 
-- 🤖 **AI & ML Development:** Built ML models and Large Language Models (BERT, GPT) improving predictive accuracy and learning outcomes by up to 35%.  
-- 🧠 **Deep Learning & NLP:** Designed CNN, RNN, LSTM networks and NLP pipelines for sentiment analysis and intelligent assistants.  
+- 🤖 **AI & ML Development:** Built ML models and LLMs (BERT, Llama2) with RAG, boosting accuracy and learning outcomes by up to 35%.  
+- 🧠 **Deep Learning & NLP:** Designed CNN, RNN, LSTM networks and NLP pipelines, plus RAG-based chatbots for intelligent assistants.  
 - 🔄 **MLOps & Automation:** Managed ML lifecycle with MLflow, CI/CD, FastAPI, Docker, and Kubernetes, reducing inference time by 30%.  
 - 📊 **Data Engineering & Analytics:** Engineered ETL pipelines with PySpark, Pandas, Spark, and SQL/NoSQL, improving preprocessing efficiency by 25–40%.  
-- ☁️ **Cloud & DevOps:** Deployed AI solutions on AWS and Azure, boosting scalability and uptime.  
+- ☁️ **Cloud & DevOps:** Deployed AI solutions on AWS and Azure, enhancing scalability with LangChain-integrated workflows.  
 - 🛠️ **Programming & Software Development:** Python, Java, C++, SQL, REST APIs, and enterprise-grade software solutions.
 
 
@@ -52,6 +52,16 @@
   <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=ai&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-RGB(255,69,0)?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA" />
+  <img src="https://img.shields.io/badge/LangChain-FF1493?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangServe-00CED1?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-4682B4?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-9B59B6?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-1E90FF?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chroma-FFD700?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astra-4169E1?style=for-the-badge&logo=datastax&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama-8A2BE2?style=for-the-badge&logo=llama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-32CD32?style=for-the-badge&logo=xai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Data Engineering & Analytics
@@ -68,7 +78,6 @@
 ### Cloud & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -84,32 +93,24 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-
 ## 📌 Featured Projects
+### 🌟 Multi-Source QA Chatbot 🌟
 
-### 📈 U.S. Unemployment Rate Forecasting
-- Forecasts U.S. unemployment using historical economic indicators.
-- Implements Ridge Regression with lag & rolling statistical features.
-- Backend: FastAPI | MLflow for model tracking & registry.
-- Frontend: Responsive UI for real-time predictions.
-- Feature engineering: Lag features, rolling mean & standard deviation.
-- [🔗 View Repository](https://github.com/Jasweer09/UnEmployment_Rate_Prediction)
+The **Multi-Source QA Chatbot** is a LangChain-powered conversational AI built with Llama2, integrating Wikipedia, Arxiv, and a FAISS-based LangSmith retriever to answer diverse queries like "What is OpenAI?" with structured JSON responses. Implemented in `agents.ipynb`, it showcases robust tool integration and error handling for reliable question-answering.
 
-### 🚖 NYC Taxi Trip Duration Prediction – ML Engineering Case Study
-- Real-time trip duration prediction from large-scale NYC taxi data (~10M+ records).
-- Data processing with Apache Spark & feature engineering (time, distance, peak hours, etc.).
-- MLflow for experiment tracking & model versioning.
-- FastAPI backend with Jinja2 templates for interactive predictions.
-- Dockerized for production-ready deployment.
-- [🔗 View Repository](https://github.com/Jasweer09/NYC-Taxi-Trip-Duration-Prediction)
+- **Multi-Tool Integration**: Combines Wikipedia, Arxiv, and LangSmith retriever for comprehensive query coverage.
+- **Structured JSON Output**: Uses `create_structured_chat_agent` with Llama2 for consistent, parseable responses.
+- **Error Resolution**: Overcame parsing issues (e.g., for "Tell me about India") to enhance reliability.
+- **Scalable Design**: Modular tool setup allows easy addition of new data sources.
+- **Repo Link**: [View Repository](https://github.com/Jasweer09/Adv_RAG_QA_ChatBot_with_Multi_Source)
   
-### 🚀 Credit Card Fraud Detection – From Raw Data to Final Model
-- Built an end-to-end fraud detection pipeline on highly imbalanced credit card data (0.17% fraud cases).
-- Applied advanced preprocessing: cyclic encoding for time, scaling, and multiple resampling strategies.
-- Evaluated Logistic Regression, Random Forest, XGBoost; final ensemble achieved Precision 0.89, Recall 0.80, AUC 0.976.
-- Implemented threshold tuning to optimize fraud detection trade-offs.
-- Live demo: [fraud-detection-latest.onrender.com](https://fraud-detection-latest.onrender.com)
-- [🔗 View Repository](https://github.com/Jasweer09/Credit_card_fraud_detection_system)
+### 🚀 AI-Driven Vector Database Project with Astra DB
+
+- 🧠 Developed a semantic search pipeline using Astra DB and LangChain, querying philosophical quotes with Hugging Face embeddings.
+- ⚡️ Configured a serverless Astra DB vector store for scalable, cloud-native data retrieval.
+- 📊 Visualized vectors and tracked metrics (throughput, latency) via Astra DB’s intuitive UI.
+- 🔍 Compared Astra DB’s managed scalability with ChromaDB and FAISS for AI applications.
+- **Repo Link**: [View Repository](https://github.com/Jasweer09/Experiment_Astra_VectorStore)
 
 ### 🧠 Multi-Task NLP Classification  
 - Built a deep learning model using **LSTM with shared layers** to classify text into **emotions, violence categories, and hate speech** simultaneously.  
@@ -141,15 +142,31 @@
 - Evaluated model with precision, recall, F1-scores, and confusion matrix visualizations using Matplotlib/Seaborn, showcasing robust performance.
 - [🔗 View Repository](https://github.com/Jasweer09/Hate_Speech_Detection_Using_LSTM/)
 
-### 🌟 Multi-Source QA Chatbot 🌟
 
-The **Multi-Source QA Chatbot** is a LangChain-powered conversational AI built with Llama2, integrating Wikipedia, Arxiv, and a FAISS-based LangSmith retriever to answer diverse queries like "What is OpenAI?" with structured JSON responses. Implemented in `agents.ipynb`, it showcases robust tool integration and error handling for reliable question-answering.
+### 📈 U.S. Unemployment Rate Forecasting
+- Forecasts U.S. unemployment using historical economic indicators.
+- Implements Ridge Regression with lag & rolling statistical features.
+- Backend: FastAPI | MLflow for model tracking & registry.
+- Frontend: Responsive UI for real-time predictions.
+- Feature engineering: Lag features, rolling mean & standard deviation.
+- [🔗 View Repository](https://github.com/Jasweer09/UnEmployment_Rate_Prediction)
 
-- **Multi-Tool Integration**: Combines Wikipedia, Arxiv, and LangSmith retriever for comprehensive query coverage.
-- **Structured JSON Output**: Uses `create_structured_chat_agent` with Llama2 for consistent, parseable responses.
-- **Error Resolution**: Overcame parsing issues (e.g., for "Tell me about India") to enhance reliability.
-- **Scalable Design**: Modular tool setup allows easy addition of new data sources.
-- **Repo Link**: [View Repository](https://github.com/Jasweer09/Adv_RAG_QA_ChatBot_with_Multi_Source)
+### 🚖 NYC Taxi Trip Duration Prediction – ML Engineering Case Study
+- Real-time trip duration prediction from large-scale NYC taxi data (~10M+ records).
+- Data processing with Apache Spark & feature engineering (time, distance, peak hours, etc.).
+- MLflow for experiment tracking & model versioning.
+- FastAPI backend with Jinja2 templates for interactive predictions.
+- Dockerized for production-ready deployment.
+- [🔗 View Repository](https://github.com/Jasweer09/NYC-Taxi-Trip-Duration-Prediction)
+  
+### 🚀 Credit Card Fraud Detection – From Raw Data to Final Model
+- Built an end-to-end fraud detection pipeline on highly imbalanced credit card data (0.17% fraud cases).
+- Applied advanced preprocessing: cyclic encoding for time, scaling, and multiple resampling strategies.
+- Evaluated Logistic Regression, Random Forest, XGBoost; final ensemble achieved Precision 0.89, Recall 0.80, AUC 0.976.
+- Implemented threshold tuning to optimize fraud detection trade-offs.
+- Live demo: [fraud-detection-latest.onrender.com](https://fraud-detection-latest.onrender.com)
+- [🔗 View Repository](https://github.com/Jasweer09/Credit_card_fraud_detection_system)
+
 
 ## 🤝 Let's Connect!
 
