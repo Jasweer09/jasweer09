@@ -119,6 +119,13 @@ The **Multi-Source QA Chatbot** is a LangChain-powered conversational AI built w
 - 🔍 Compared Astra DB’s managed scalability with ChromaDB and FAISS for AI applications.
 - **Repo Link**: [View Repository](https://github.com/Jasweer09/Experiment_Astra_VectorStore)
 
+### Hybrid Search RAG Pipeline | LangChain, Pinecone, Groq LPU, Google Generative AI Embeddings, BM25Encoder
+- Built RAG Q&A chatbot with LangChain, processing 58-page PDF into 140 chunks for accurate querying.
+- Implemented Pinecone hybrid search, achieving 95%+ recall with sub-ms query times.
+- Powered inference with Groq’s LPU (gemma2-9b-it), delivering 300+ tokens/sec, <2s responses.
+- Orchestrated scalable AI pipeline using LangChain for document analysis and retrieval.
+- **Repo Link**: [View Repository](https://github.com/Jasweer09/Exp_Pinecone_Hybrid_Search)
+  
 ### 🧠 Multi-Task NLP Classification  
 - Built a deep learning model using **LSTM with shared layers** to classify text into **emotions, violence categories, and hate speech** simultaneously.  
 - Applied **data preprocessing** (cleaning, stopword removal, tokenization, padding) and handled **imbalanced datasets** with sampling techniques.  
